@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dcheng168/react-proj-boilerplate/issues"
   },
-  "homepage": "https://github.com/dcheng168/react-proj-boilerplate#readme"
+  "homepage": "https://github.com/dcheng168/react-proj-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
 }
